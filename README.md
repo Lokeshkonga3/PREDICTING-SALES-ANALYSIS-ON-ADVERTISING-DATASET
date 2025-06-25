@@ -55,9 +55,3 @@ This project demonstrates a simple **linear regression model** to predict sales 
 
 ---
 
-## ▶️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/linear-regression-advertising.git
-   cd linear-regression-advertising
